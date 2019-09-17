@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/metigy-codetest-react/static/css/main.ecf28771.chunk.css",
+    "main.js": "/metigy-codetest-react/static/js/main.b5595f4b.chunk.js",
+    "main.js.map": "/metigy-codetest-react/static/js/main.b5595f4b.chunk.js.map",
+    "runtime~main.js": "/metigy-codetest-react/static/js/runtime~main.08bffb6a.js",
+    "runtime~main.js.map": "/metigy-codetest-react/static/js/runtime~main.08bffb6a.js.map",
+    "static/js/2.fcc59dfc.chunk.js": "/metigy-codetest-react/static/js/2.fcc59dfc.chunk.js",
+    "static/js/2.fcc59dfc.chunk.js.map": "/metigy-codetest-react/static/js/2.fcc59dfc.chunk.js.map",
+    "index.html": "/metigy-codetest-react/index.html",
+    "precache-manifest.8e9e3dd5cc54acf5b5067f4640ef945f.js": "/metigy-codetest-react/precache-manifest.8e9e3dd5cc54acf5b5067f4640ef945f.js",
+    "service-worker.js": "/metigy-codetest-react/service-worker.js",
+    "static/css/main.ecf28771.chunk.css.map": "/metigy-codetest-react/static/css/main.ecf28771.chunk.css.map"
+  }
+}
